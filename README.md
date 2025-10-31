@@ -24,4 +24,4 @@ Incident records with password/VPN/email keywords are auto-resolved with
 AI notes and summaries added automatically.
 
 ## Diagram
-![Flow Diagram](Diagrams/ITSM_Agentic_AI_AutoResolution.png)
+![Flow Diagram](Flow Diagram/ITSM_Agentic_AI_AutoResolution.png)
