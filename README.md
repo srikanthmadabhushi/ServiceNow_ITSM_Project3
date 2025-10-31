@@ -1,5 +1,4 @@
 # ServiceNow_ITSM_Project3
-ITSM Project 3: Agentic AI Auto-Resolution Flow
 # ServiceNow ITSM | Agentic AI Auto-Resolution Flow (Yokohama PDI)
 
 ## Overview
